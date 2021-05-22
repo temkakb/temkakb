@@ -59,7 +59,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=temkakb&&show_icons=true&theme=cobalt"/>
    </br>
 </br>
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=temkakb)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)]
 
   </a>
   </p>
