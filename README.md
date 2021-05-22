@@ -1,11 +1,11 @@
 ![](https://giphy.com/embed/137EaR4vAOCn1S)
 
-<h1 align="center">Hi 👋, I'm Malburo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
+
 
 
 </br>
 </br>
-<img src="https://giphy.com/embed/137EaR4vAOCn1S" width="50"/>
+<img src="https://media.giphy.com/media/137EaR4vAOCn1S/source.gif" width="50"/>
 </br>
 
 
