@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 21 years  From Vietnam
+### Hi there, I'm [Tân](https://github.com/temkakb) 👋
 </br>
 </br>
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
