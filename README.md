@@ -5,7 +5,7 @@
 </br>
 </br>
 
- <img src="https://s3.gifyu.com/images/9318-clap.gif" width="50"/><h1 align="center">It's You..it's been a long time.....<img src="https://s3.gifyu.com/images/9318-clap.gif" width="50"/>
+<h1 align="center"><img src="https://s3.gifyu.com/images/9318-clap.gif" width="50"/>It's You..it's been a long time.....<img src="https://s3.gifyu.com/images/9318-clap.gif" width="50"/>
 
  <h1 align="center">Artificial Intelligence is future of technology<img src="https://s3.gifyu.com/images/6985-purple-dance.gif" width="50"/><img src="https://s3.gifyu.com/images/6985-purple-dance.gif" width="50"/><img src="https://s3.gifyu.com/images/6985-purple-dance.gif" width="50"/>
 
