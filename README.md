@@ -18,7 +18,7 @@
 ### Hi there, I'm [Tân](https://github.com/temkakb) 👋
 </br>
 </br>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="540"/>
 
 ### - Learning Framework :
 - ✨ Django
