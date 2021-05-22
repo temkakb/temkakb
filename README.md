@@ -14,11 +14,17 @@
 ### - I'm 21 years  From Vietnam
 
 
-### - Learning :
+### - Learning Framework :
 - ✨ Django
 - ✨ Spring Framework
-- ✨ Spring Framework
 
+### - Learning language :
+- ✨ Python
+- ✨ Java
+
+### - knowledge of A.I :
+- ✨ Deep learning algorithms: CNN , RCNN, FAST RCNN, FASTER RCNN, GAN, NeRF
+- ✨ The concept of machine learning , Y=F(X)
 
 </br>
 </br>
