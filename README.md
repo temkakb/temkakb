@@ -41,19 +41,11 @@
 
 
 
-# Contact Me :
 
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
 
  
 
-</br>
-</br>
 </br>
 </br>
 </br>
@@ -64,7 +56,7 @@
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=temkakb-xX&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
