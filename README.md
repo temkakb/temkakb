@@ -1,4 +1,6 @@
-![](https://i.ibb.co/JkTTYvK/Neral-Network.jpg)
+
+
+<img  align="center" src="https://i.ibb.co/JkTTYvK/Neral-Network.jpg" width="600"/>
 
 
 <h1 align="center">Artificial Intelligence is future of technology<img src="<a href="https://s3.gifyu.com/images/6985-purple-dance.gif" width="50"/>
