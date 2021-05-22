@@ -12,7 +12,9 @@
 # About ME 💬 :
 
 ### - I'm 21 years  From Vietnam
-
+</br>
+</br>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
 
 ### - Learning Framework :
 - ✨ Django
