@@ -49,26 +49,10 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
 
-
 </p>
 </br>
 </br>
 </br>
-
-
-
-
-
-
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
