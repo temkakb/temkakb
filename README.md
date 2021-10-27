@@ -27,10 +27,12 @@
 ### - Learning language :
 - ✨ Python
 - ✨ Java
+- ✨ Kotlin
+- ✨ C#
 
 ### - knowledge of A.I :
 - ✨ Deep learning algorithms: CNN , RCNN, FAST RCNN, FASTER RCNN, GAN, NeRF
-- ✨ The concept of machine learning , Y=F(X)
+- ✨ The concept of machine learning 
 
 </br>
 </br>
